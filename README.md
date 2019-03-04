@@ -36,7 +36,6 @@ L’exploitation optimale de l’information sur le client devient aujourdhui un
 
 Les contraintes du CRM :
 
-  
 ●	Implication et formation des utilisateurs
 
 ●	Grande capacité de changement de l’organisation
