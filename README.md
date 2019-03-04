@@ -1,6 +1,6 @@
 Présentation du projet
 
-a)	Objectif du projet
+Objectif du projet
 
 
 L’objectif de notre projet est de concevoir et de mettre en place une application web qui permet la gestion des contacts clients
