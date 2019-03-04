@@ -1,5 +1,8 @@
 1.	Présentation du projet
+
 a)	Objectif du projet
+
+
 L’objectif de notre projet est de concevoir et de mettre en place une application web qui permet la gestion des contacts clients
 
 La mise en place d’une CRM permet d’intégrer le client dans son organisation, de connaître ses interlocuteurs afin de leur fournir une relation personnalisée et optimiser le contact client tout au long du cycle de vente.
