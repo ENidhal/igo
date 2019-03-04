@@ -1,4 +1,4 @@
-1.	Présentation du projet
+Présentation du projet
 
 a)	Objectif du projet
 
